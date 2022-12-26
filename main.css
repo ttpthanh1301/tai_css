@@ -1,0 +1,23 @@
+.table_layout{
+    border-collapse: collapse;
+    border: solid purple;
+    background-color:white;
+
+}
+div{
+    display: block;
+}
+body{
+    background-color: bisque;
+
+}
+th{
+    background-color: orange;
+}
+.tr__item{
+    background: bisque;
+}
+h1{
+    text-align:center;
+    color:orange;
+}
